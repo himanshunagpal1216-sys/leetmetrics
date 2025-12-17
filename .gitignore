@@ -1,0 +1,8 @@
+# common
+.vscode/
+.env
+*.pyc
+__pycache__/
+node_modules/
+*.log
+.DS_Store
